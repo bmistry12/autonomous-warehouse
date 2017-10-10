@@ -1,16 +1,12 @@
-This is PC part of warehouse-assignment, the whole pc robots management code is stored here.
+# autonomous-warehouse final submission
 
-Don't push any binary or IDE files! Don't push rp-pc, rp-shared or rp-utils projects!
+First Year Robot Programming Team Assignment The goal was to create a working warehouse simulation that is navigated by three autonoumous robots.
 
-How to start working on this project:
-
-1. clone repository
-2. create new branch for your part of assignment
-3. start working on your branch
-4. commit and push changes only to your branches
-
-If you want to integrate your changes with the rest of the system:
-
-1. make sure you code works
-2. commit and push changes to your branch
-3. create merge request with branch integration
+Team Members: 
+Andrei-Mariano Gherase - Robot Interface and Robot Movement 
+Kacper Kielak - Team Manager, Integration, and Robot Movement 
+Alexander Lloyd - Communication (between robots and the server) and Integration 
+Theodor Mazilu - Robot Interface 
+Bhavina Mistry - Warehouse Management Interface 
+Matei Vicovan-Hantascu - Job Selection, Job Assignment, and Input Processing 
+Lewis Wakeland - Multi-Robot Pathfinding using A*
