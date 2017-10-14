@@ -1,6 +1,7 @@
 # autonomous-warehouse final submission
 
-First Year Robot Programming Team Assignment The goal was to create a working warehouse simulation that is navigated by three autonoumous robots.
+First Year Robot Programming Team Assignment 
+The goal was to create a working warehouse simulation that is navigated by three autonoumous robots.
 
 Team Members: 
 Andrei-Mariano Gherase - Robot Interface and Robot Movement 
